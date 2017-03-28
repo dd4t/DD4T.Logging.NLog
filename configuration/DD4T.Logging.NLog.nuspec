@@ -11,8 +11,8 @@
     </releaseNotes>
     <tags>SDLTridion Tridion SDL SDLWeb DD4T DD4T2 Logging NLog</tags>
     <dependencies>
-      <dependency id="DD4T.Core" version="2.1.0" />
-      <dependency id="NLog" version="4.3.4" />
+      <dependency id="DD4T.Core" version="2.2.2" />
+      <dependency id="NLog" version="4.4.4" />
     </dependencies>
   </metadata>
 </package>

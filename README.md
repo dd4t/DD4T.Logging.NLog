@@ -2,7 +2,10 @@
 
 [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/dd4t/DD4T.Logging.NLog?branch=develop&svg=true&passingText=develop)](https://ci.appveyor.com/project/DD4T/dd4t-logging-nlog)
 
-# DD4T Essentials
-DD4T - delivery framework for Microsoft.NET
+# DD4T.Logging.NLog
+Lets DD4T log with NLog
 
-DD4T Logging NLog
+## Release 2.5
+
+- Upgraded to DD4T.Core 2.5
+- Downgraded from .NET Framework 4.5.2 to 4.5.1 (in line with the rest of the DD4T framework)

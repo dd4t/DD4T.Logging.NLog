@@ -5,6 +5,10 @@
 # DD4T.Logging.NLog
 Lets DD4T log with NLog
 
+## Release 2.6
+- Upgraded NLog to 5.3.4
+- Upgraded DD4T Core and Model to 2.6.1
+
 ## Release 2.5
 
 - Upgraded to DD4T.Core 2.5
